@@ -351,13 +351,15 @@ footer{
         
     }
     .banking-text h2{
-        font-size:2.5em;
+        font-size:2em;
+        text-align:center;
     }
     .banking-text p{
         width:95%;
     }
      #banking-btn{
-        margin-top:0.5em;
+        display:block;
+         margin:auto;
         
   
     }
@@ -432,7 +434,7 @@ footer{
 }
 @media only screen and (min-width:900px)and (max-width:1025px){
     .banking-text h2{
-        font-size:0.9em;
+        font-size:2em;
         width:60%;
     }
     
