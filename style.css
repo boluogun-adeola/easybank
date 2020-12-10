@@ -131,6 +131,7 @@ button:hover{
     top:-12%;
     right:-5em;
     z-index:5;
+
 }
 .easybank{
     position:relative;
@@ -318,6 +319,9 @@ footer{
         transform: translateX(-50%);
         z-index: 100;
     }
+    #mockup{
+        width:100%;
+    }
     .banking{
         flex-direction:column-reverse;
     
@@ -329,8 +333,9 @@ footer{
     }
     .banking-text{
         padding-left: 4em;
-        padding-top:55em;
-        width:95%;
+        padding-top:35em;
+        width:100%;
+        text-align:center;
     }
     .banking-text h2{
         font-size:2.5em;
@@ -339,8 +344,8 @@ footer{
         width:95%;
     }
      #banking-btn{
-    
-        margin-left:5em;
+        margin-top:0.5em;
+        
   
     }
     #desktop-background{
@@ -351,6 +356,9 @@ footer{
     }
     .easybank{
         padding-left:4em;
+    }
+    .choice h2{
+        text-align: center;
     }
     .choice p{
         width:95%;

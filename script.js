@@ -17,3 +17,5 @@ close.onclick = function() {
   nav.style.display = "none";
   boxshadow.style.display = "none";
 };
+
+//thanks to Kotaro
