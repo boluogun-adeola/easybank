@@ -263,6 +263,11 @@ footer{
     padding-top:1.5em;
     color:var(--grayishBlue);
 }
+#footer-logo{
+    
+    filter:brightness(5);
+    
+}
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
@@ -405,7 +410,7 @@ footer{
         flex-direction:column;
     }
     .icons{
-        padding:1em 0;
+        padding:0.5em 0;
     }
     .icons img{
         padding-right:0.5em;
