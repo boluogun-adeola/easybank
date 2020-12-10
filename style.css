@@ -427,13 +427,13 @@ footer{
 }
 @media only screen and (max-width:500px){
    .banking-text{
-       padding-top:20em;
+       padding-top:25em;
    } 
 }
 @media only screen and (min-width:900px)and (max-width:1025px){
     .banking-text h2{
-        font-size:0.7em;
-        width:55%;
+        font-size:0.9em;
+        width:60%;
     }
     
 }
